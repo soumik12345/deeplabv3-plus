@@ -1,5 +1,3 @@
-black==23.3.0
-isort==5.12.0
 keras-cv @ git+https://github.com/keras-team/keras-cv@b3798d8140605b651ac46f40fe7072ea08175720
 wandb==0.15.4
 wandb-addons @ git+https://github.com/soumik12345/wandb-addons@309521280b0aa4234a7c8e0bb9aaca54b949b7e2
